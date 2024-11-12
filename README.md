@@ -1,10 +1,6 @@
-Here's the updated intro with your name:
-
----
-
 Hi👋 I’m Krish 
 
-I'm a passionate developer, second-year BCA student, and a dedicated explorer of the web development world. Currently, I'm diving deep into **full-stack development** using the **MERN stack**, honing my skills in both frontend and backend. My projects range from dynamic quiz web apps and responsive interfaces to building API endpoints and custom components. Each project I tackle helps me grow as a developer, refining my problem-solving techniques and coding efficiency.
+I'm a passionate developer, second-year BCA student, and dedicated explorer of the web development world. Currently, I'm diving deep into full-stack development using the MERN stack, honing my skills in both frontend and backend. My projects range from dynamic quiz web apps and responsive interfaces to building API endpoints and custom components. Each project I tackle helps me grow as a developer, refining my problem-solving techniques and coding efficiency.
 
 Here’s a quick snapshot of what I’m working on:
 
