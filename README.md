@@ -13,4 +13,4 @@ Here’s a quick snapshot of what I’m working on:
 On the lookout for innovative projects, cool collaborations, and coding insights! Feel free to explore my repositories, and let’s connect if you share a similar passion for tech and growth. 😊
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrishDevCrafting)](https://github.com/KrishDevCrafting/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrishDevCrafting&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
