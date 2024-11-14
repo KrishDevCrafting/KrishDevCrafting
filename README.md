@@ -2,7 +2,6 @@
 <h3 align="center">I'm a passionate developer, second-year BCA student, and dedicated explorer of the web development world. Currently, I'm diving deep into full-stack development using the MERN stack, honing my front and back-end skills. My projects range from dynamic quiz web apps and responsive interfaces to building API endpoints and custom components. Each project I tackle helps me grow as a developer, refining my problem-solving techniques and coding efficiency.</h3>
 
 
-
 - 🔭 I’m currently working on Full stack Project Building apps with sleek, user-friendly interfaces and robust backends [GeekQuiz](https://geek-quiz-web-app.vercel.app/)
 
 - 🌱 I’m currently learning or working on **React.js, Javascript,Python,DSA,Mern-Stack**
@@ -14,7 +13,7 @@
 - 📫 How to reach me **krishgeek777@gmail.com**
 
 - ⚡ Fun fact **I also a billionaire**
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/krish-backend-developer-7939b1294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krish-backend-developer-7939b1294" height="30" width="40" /></a>
