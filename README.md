@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **krishgeek777@gmail.com**
 
-- ⚡ Fun fact **I also a billionaire**
+- ⚡ Fun fact **I also a CarGuy**
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
