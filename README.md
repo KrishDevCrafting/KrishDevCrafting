@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Krish</h1>
-<h3 align="center">I'm a passionate developer, second-year BCA student, and dedicated explorer of the web development world. Currently, I'm diving deep into full-stack development using the MERN stack, honing my front and back-end skills. My projects range from dynamic quiz web apps and responsive interfaces to building API endpoints and custom components. Each project I tackle helps me grow as a developer, refining my problem-solving techniques and coding efficiency.</h3>
+<h3 align="center">Full Stack Developer (MERN) | BCA Graduate 🚀
+I build modern, scalable, and user-focused web applications with strong backend logic and clean architecture.
+I have hands-on experience in developing REST APIs, authentication systems, and dynamic full-stack applications that solve real-world problems.
+
+Currently improving my skills in system design, database management, and performance optimization to build production-ready applications.
+</h3>
 
 
 - 🔭 I’m currently working on Full stack Project Building apps with sleek, user-friendly interfaces and robust backends [Expense-Tracker](https://expense-tracker-p289-8whzuamep-krishdevcraftings-projects.vercel.app/login)
