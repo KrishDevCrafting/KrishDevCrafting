@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Krish</h1>
+<h1 align="center">Hi 👋, I'm Krish Singh</h1>
 <h3 align="center">Full Stack Developer (MERN) | BCA Graduate 🚀
 I build modern, scalable, and user-focused web applications with strong backend logic and clean architecture.
 I have hands-on experience in developing REST APIs, authentication systems, and dynamic full-stack applications that solve real-world problems.
