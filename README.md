@@ -11,7 +11,7 @@ Currently improving my skills in system design, database management, and perform
 
 - 🌱 I’m currently learning or working on **React.js, Javascript,Python,DSA,Mern-Stack**
 
-- 🤝 I’m looking for help with [JavaScriptProject](https://github.com/KrishDevCrafting/ChatifyApp)
+- 🤝 I’m looking for help with [ChatApp](https://github.com/KrishDevCrafting/ChatifyApp)
 
 - 💬 Ask me about **frontend-technology's or Problem-solving-Questions**
 
