@@ -11,13 +11,13 @@ Currently improving my skills in system design, database management, and perform
 
 - 🌱 I’m currently learning or working on **React.js, Javascript,Python,DSA,Mern-Stack**
 
-- 🤝 I’m looking for help with [JavaScriptProject](https://github.com/KrishDevCrafting/JavaScript-projects)
+- 🤝 I’m looking for help with [JavaScriptProject](https://github.com/KrishDevCrafting/ChatifyApp)
 
 - 💬 Ask me about **frontend-technology's or Problem-solving-Questions**
 
 - 📫 How to reach me **krishgeek777@gmail.com**
 
-- ⚡ Fun fact **I also a CarGuy**
+- ⚡ Fun fact **I'm also a CarGuy**
 
 
 
